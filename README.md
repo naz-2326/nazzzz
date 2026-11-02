@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="banner.gif" width="100%" />
+<img src="./images.steamusercontent.gif" width="100%" />
 
 </div>
 
