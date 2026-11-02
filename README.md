@@ -9,7 +9,6 @@
 
 <p>
   <samp>
-    Hi there! I'm a high school student. I'm an artist,
-    and I'm interested in technology and programming.
+    Hi! I'm a Student. I want to change myself.
   </samp>
 </p>
